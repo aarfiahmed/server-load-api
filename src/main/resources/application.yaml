@@ -1,0 +1,39 @@
+app:
+  header:
+    two: "two value"
+    one: "one value"
+    Origin: "https://voters.eci.gov.in"
+    applicationname: "VSP"
+    atkn_bnd: "77+91J7vv71meu+/ve+/ve+/vQjvv73vv70AEO+/vUJQ77+977+9K++/vUXCk++/ve+/ve+/vQkUDFrvv70="
+    channelidobo: "VSP"
+    currentrole: "citizen"
+    rtkn_bnd: "77+977+977+9K33vv71DLO+/ve+/ve+/ve+/vVHvv71mFO+/vVTvv71ODzTvv70JUSEOUw1nU34="
+    sec-ch-ua: "\"Not/A)Brand\";v=\"8\", \"Chromium\";v=\"126\", \"Microsoft Edge\";v=\"126\""
+    sec-ch-ua-mobile: "?0"
+    sec-ch-ua-platform: "\"Windows\""
+    state: "S24"
+
+service:
+  data:
+    RegisterForm-FirstName: "test"
+    RegisterForm-LastName: "test"
+    RegisterForm-email: "testhello@mail.com"
+    RegisterForm-password: "password@123"
+    form_type: "create_customer"
+    utf8: "✓"
+    data-cptcha: "false"
+    data-recaptcha-bound: "true"
+    novalidate: "novalidate"
+    data-login-with-shop-sign-up: "true"
+    accept-charset: "UTF-8"
+
+
+api:
+  limit: "1000"
+  url: "https://angelinaswann.com/account/"
+
+
+
+spring:
+  application:
+    name: "api-load-app"
